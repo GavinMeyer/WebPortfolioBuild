@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.70b246ca.css",
-    "main.js": "/static/js/main.abd4b4fd.js",
-    "static/js/453.f4fbaa6d.chunk.js": "/static/js/453.f4fbaa6d.chunk.js",
-    "static/media/ferret_goof_smile.webp": "/static/media/ferret_goof_smile.43a257783127743b2308.webp",
-    "index.html": "/index.html",
-    "main.70b246ca.css.map": "/static/css/main.70b246ca.css.map",
-    "main.abd4b4fd.js.map": "/static/js/main.abd4b4fd.js.map",
-    "453.f4fbaa6d.chunk.js.map": "/static/js/453.f4fbaa6d.chunk.js.map"
+    "main.css": "./static/css/main.70b246ca.css",
+    "main.js": "./static/js/main.a04985bd.js",
+    "static/js/453.f4fbaa6d.chunk.js": "./static/js/453.f4fbaa6d.chunk.js",
+    "static/media/ferret_goof_smile.webp": "./static/media/ferret_goof_smile.43a257783127743b2308.webp",
+    "index.html": "./index.html",
+    "main.70b246ca.css.map": "./static/css/main.70b246ca.css.map",
+    "main.a04985bd.js.map": "./static/js/main.a04985bd.js.map",
+    "453.f4fbaa6d.chunk.js.map": "./static/js/453.f4fbaa6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.70b246ca.css",
-    "static/js/main.abd4b4fd.js"
+    "static/js/main.a04985bd.js"
   ]
 }
