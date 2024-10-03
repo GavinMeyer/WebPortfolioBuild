@@ -1,0 +1,21 @@
+
+.resumeDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+
+.resume {
+    margin-top: 1%;
+    height: 1150px;
+    width: 1000px;
+}
+
+/*
+@media (max-width: 800px) {
+    .resume {
+        display: none;
+    }
+}
+*/
